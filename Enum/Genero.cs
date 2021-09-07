@@ -4,7 +4,7 @@ namespace DIO.Series
     {
 
         Acao = 1,
-        Animes = 2,
+        Anime = 2,
         Aventura = 3,
         Comedia = 4,
         Documentario = 5,
